@@ -2,7 +2,7 @@
   "name": "Javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "Practica2/index.js",
+  "main": "Practica2/ejercicio-1-hola-mundo/holaMundo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
