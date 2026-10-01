@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="tercer ejercicio(String)">
-      <change afterPath="$PROJECT_DIR$/Practica2/ejercicio-4-date/date.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica2/ejercicio-4-date/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica2/ ejercicio-2-number-math/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practica2/ ejercicio-2-number-math/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica2/ejercicio-3-string/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practica2/ejercicio-3-string/index.html" afterDir="false" />
+    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="cuarto ejercicio(Date)">
+      <change afterPath="$PROJECT_DIR$/Practica2/ejercicio-5-entrada-operaciones-tipos/entrada-operaciones-tipos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica2/ejercicio-5-entrada-operaciones-tipos/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.stickyLines"
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -90,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1790863892777</updated>
       <workItem from="1790863893883" duration="6624000" />
-      <workItem from="1790873686318" duration="1292000" />
+      <workItem from="1790873686318" duration="3034000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio de las practicas">
       <option name="closed" value="true" />
@@ -140,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790871376051</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="cuarto ejercicio(Date)">
+      <option name="closed" value="true" />
+      <created>1790875193841</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1790875193841</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +156,7 @@
     <MESSAGE value="Primer ejercicio(hola mundo)" />
     <MESSAGE value="segundo ejercicio(number y math)" />
     <MESSAGE value="tercer ejercicio(String)" />
-    <option name="LAST_COMMIT_MESSAGE" value="tercer ejercicio(String)" />
+    <MESSAGE value="cuarto ejercicio(Date)" />
+    <option name="LAST_COMMIT_MESSAGE" value="cuarto ejercicio(Date)" />
   </component>
 </project>
