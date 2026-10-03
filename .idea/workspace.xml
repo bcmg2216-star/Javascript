@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicio 4 de la practica 3">
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio5/ejercicio5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio5/index.html" afterDir="false" />
+    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicio 9 de la practica 3">
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio10/ejercicio10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio11/ejercicio11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio12/ejercicio12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio13/ejercicio13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio14/ejercicio14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio15/ejercicio15.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio15/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,29 +54,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica3/ejercicio5",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica3/ejercicio15&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Practica3/ejercicio5" />
-      <recent name="$PROJECT_DIR$/Practica3/ejercicio4" />
-      <recent name="$PROJECT_DIR$/Practica3/ejercicio3" />
-      <recent name="$PROJECT_DIR$/Practica3" />
-      <recent name="$PROJECT_DIR$/Practica2/ejercicio-5-entrada-operaciones-tipos" />
+      <recent name="$PROJECT_DIR$/Practica3/ejercicio15" />
+      <recent name="$PROJECT_DIR$/Practica3/ejercicio14" />
+      <recent name="$PROJECT_DIR$/Practica3/ejercicio13" />
+      <recent name="$PROJECT_DIR$/Practica3/ejercicio12" />
+      <recent name="$PROJECT_DIR$/Practica3/ejercicio11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Practica3/ejercicio-1y2" />
@@ -92,7 +102,9 @@
       <workItem from="1790863893883" duration="6624000" />
       <workItem from="1790873686318" duration="3059000" />
       <workItem from="1790938476923" duration="1191000" />
-      <workItem from="1791018610349" duration="3521000" />
+      <workItem from="1791018610349" duration="6503000" />
+      <workItem from="1791029320817" duration="219000" />
+      <workItem from="1791029805572" duration="530000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio de las practicas">
       <option name="closed" value="true" />
@@ -190,7 +202,47 @@
       <option name="project" value="LOCAL" />
       <updated>1791020775732</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ejercicio 5 de la practica 3">
+      <option name="closed" value="true" />
+      <created>1791022289051</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1791022289051</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ejercicio 6 de la practica 3">
+      <option name="closed" value="true" />
+      <created>1791022949525</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1791022949525</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ejercicio 7 de la practica 3">
+      <option name="closed" value="true" />
+      <created>1791023188003</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1791023188003</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ejercicio 8 de la practica 3">
+      <option name="closed" value="true" />
+      <created>1791023471097</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1791023471098</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ejercicio 9 de la practica 3">
+      <option name="closed" value="true" />
+      <created>1791023679740</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1791023679740</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +259,11 @@
     <MESSAGE value="ejercicio1 y 2 de la practica 3" />
     <MESSAGE value="ejercicio 3 de la practica 3" />
     <MESSAGE value="ejercicio 4 de la practica 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 4 de la practica 3" />
+    <MESSAGE value="ejercicio 5 de la practica 3" />
+    <MESSAGE value="ejercicio 6 de la practica 3" />
+    <MESSAGE value="ejercicio 7 de la practica 3" />
+    <MESSAGE value="ejercicio 8 de la practica 3" />
+    <MESSAGE value="ejercicio 9 de la practica 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 9 de la practica 3" />
   </component>
 </project>
