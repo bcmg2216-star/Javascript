@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicio1 y 2 de la practica 3">
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio3/ejercicio3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio3/index.html" afterDir="false" />
+    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicio 3 de la practica 3">
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio4/ejercicio4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica3/ejercicio3",
+    "last_opened_file_path": "/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica3/ejercicio4",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
@@ -61,11 +61,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practica3/ejercicio4" />
       <recent name="$PROJECT_DIR$/Practica3/ejercicio3" />
       <recent name="$PROJECT_DIR$/Practica3" />
       <recent name="$PROJECT_DIR$/Practica2/ejercicio-5-entrada-operaciones-tipos" />
       <recent name="$PROJECT_DIR$/Practica2/ejercicio-4-date" />
-      <recent name="$PROJECT_DIR$/Practica2/ejercicio-3-string" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Practica3/ejercicio-1y2" />
@@ -91,7 +91,7 @@
       <workItem from="1790863893883" duration="6624000" />
       <workItem from="1790873686318" duration="3059000" />
       <workItem from="1790938476923" duration="1191000" />
-      <workItem from="1791018610349" duration="1601000" />
+      <workItem from="1791018610349" duration="1970000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio de las practicas">
       <option name="closed" value="true" />
@@ -173,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791019723967</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ejercicio 3 de la practica 3">
+      <option name="closed" value="true" />
+      <created>1791020351438</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1791020351438</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +196,7 @@
     <MESSAGE value="haciendo el quinto ejercicio(Entrada, operaciones y tipos)" />
     <MESSAGE value="terminado el quinto ejercicio(Entrada, operaciones y tipos)" />
     <MESSAGE value="ejercicio1 y 2 de la practica 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio1 y 2 de la practica 3" />
+    <MESSAGE value="ejercicio 3 de la practica 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 3 de la practica 3" />
   </component>
 </project>
