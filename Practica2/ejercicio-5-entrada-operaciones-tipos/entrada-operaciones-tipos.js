@@ -1,7 +1,3 @@
-/*
-f. Comprueba que la edad y la nota sean números válidos, que la nota esté entre 0 y 10
-y que no se intente dividir entre cero.**/
-
 // pedir al usuario
 let edad = Number.parseInt(prompt("¿Que edad tienes?"));
 const nota = Number.parseFloat(prompt("¿Cual es tu nota media del expediente (con tres decimales)?"));
