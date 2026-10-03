@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="terminado el quinto ejercicio(Entrada, operaciones y tipos)">
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio-1y2/ejercicio1y2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio-1y2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practica2/ejercicio-5-entrada-operaciones-tipos/entrada-operaciones-tipos.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practica2/ejercicio-5-entrada-operaciones-tipos/entrada-operaciones-tipos.js" afterDir="false" />
+    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicio1 y 2 de la practica 3">
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio3/ejercicio3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,29 +43,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica3&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica3/ejercicio3",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practica3/ejercicio3" />
       <recent name="$PROJECT_DIR$/Practica3" />
       <recent name="$PROJECT_DIR$/Practica2/ejercicio-5-entrada-operaciones-tipos" />
       <recent name="$PROJECT_DIR$/Practica2/ejercicio-4-date" />
       <recent name="$PROJECT_DIR$/Practica2/ejercicio-3-string" />
-      <recent name="$PROJECT_DIR$/Practica2/ ejercicio-2-number-math" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Practica3/ejercicio-1y2" />
@@ -93,7 +91,7 @@
       <workItem from="1790863893883" duration="6624000" />
       <workItem from="1790873686318" duration="3059000" />
       <workItem from="1790938476923" duration="1191000" />
-      <workItem from="1791018610349" duration="1064000" />
+      <workItem from="1791018610349" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio de las practicas">
       <option name="closed" value="true" />
@@ -167,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790939066301</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ejercicio1 y 2 de la practica 3">
+      <option name="closed" value="true" />
+      <created>1791019723966</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1791019723967</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +187,7 @@
     <MESSAGE value="cuarto ejercicio(Date)" />
     <MESSAGE value="haciendo el quinto ejercicio(Entrada, operaciones y tipos)" />
     <MESSAGE value="terminado el quinto ejercicio(Entrada, operaciones y tipos)" />
-    <option name="LAST_COMMIT_MESSAGE" value="terminado el quinto ejercicio(Entrada, operaciones y tipos)" />
+    <MESSAGE value="ejercicio1 y 2 de la practica 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio1 y 2 de la practica 3" />
   </component>
 </project>
