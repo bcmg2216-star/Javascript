@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicio 9 de la practica 3">
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio10/ejercicio10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio11/ejercicio11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio12/ejercicio12.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio12/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio13/ejercicio13.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio13/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio14/ejercicio14.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio14/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio15/ejercicio15.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica3/ejercicio15/index.html" afterDir="false" />
+    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicios del 10 al 15 de la practica 3">
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio1/ejercicio1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio2/ejercicio2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio3/ejercicio3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio4/ejercicio4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio5/ejercicio5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio6/ejercicio6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio7/ejercicio7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio8/ejercicio8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio9/ejercicio9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/components/Arcade.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/components/Arcade.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/components/CajaFuerte.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/components/CajaFuerte.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/components/PalabraOculta.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/components/PalabraOculta.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/components/RascaYGana.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/components/RascaYGana.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes1.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes1.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes11.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes11.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes12.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes12.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes2.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes4.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes4.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes6.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes6.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes7.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes7.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,29 +71,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica3/ejercicio15&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica4",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practica4" />
       <recent name="$PROJECT_DIR$/Practica3/ejercicio15" />
       <recent name="$PROJECT_DIR$/Practica3/ejercicio14" />
       <recent name="$PROJECT_DIR$/Practica3/ejercicio13" />
       <recent name="$PROJECT_DIR$/Practica3/ejercicio12" />
-      <recent name="$PROJECT_DIR$/Practica3/ejercicio11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Practica3/ejercicio-1y2" />
@@ -104,7 +121,10 @@
       <workItem from="1790938476923" duration="1191000" />
       <workItem from="1791018610349" duration="6503000" />
       <workItem from="1791029320817" duration="219000" />
-      <workItem from="1791029805572" duration="530000" />
+      <workItem from="1791029805572" duration="650000" />
+      <workItem from="1791215829975" duration="9000" />
+      <workItem from="1791215914235" duration="13000" />
+      <workItem from="1791278676959" duration="1338000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio de las practicas">
       <option name="closed" value="true" />
@@ -242,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791023679740</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ejercicios del 10 al 15 de la practica 3">
+      <option name="closed" value="true" />
+      <created>1791030413923</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1791030413923</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,6 +292,7 @@
     <MESSAGE value="ejercicio 7 de la practica 3" />
     <MESSAGE value="ejercicio 8 de la practica 3" />
     <MESSAGE value="ejercicio 9 de la practica 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 9 de la practica 3" />
+    <MESSAGE value="ejercicios del 10 al 15 de la practica 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios del 10 al 15 de la practica 3" />
   </component>
 </project>
