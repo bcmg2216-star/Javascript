@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicios del 1 de la practica 4">
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio2/ejercicio2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio2/index.html" afterDir="false" />
+    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicios del 2 de la practica 4">
       <change afterPath="$PROJECT_DIR$/Practica4/ejercicio3/ejercicio3.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Practica4/ejercicio3/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Practica4/ejercicio4/ejercicio4.js" afterDir="false" />
@@ -121,7 +119,7 @@
       <workItem from="1791029805572" duration="650000" />
       <workItem from="1791215829975" duration="9000" />
       <workItem from="1791215914235" duration="13000" />
-      <workItem from="1791278676959" duration="2482000" />
+      <workItem from="1791278676959" duration="2795000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio de las practicas">
       <option name="closed" value="true" />
@@ -275,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791280052045</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ejercicios del 2 de la practica 4">
+      <option name="closed" value="true" />
+      <created>1791281423682</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1791281423682</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +305,7 @@
     <MESSAGE value="ejercicio 9 de la practica 3" />
     <MESSAGE value="ejercicios del 10 al 15 de la practica 3" />
     <MESSAGE value="ejercicios del 1 de la practica 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicios del 1 de la practica 4" />
+    <MESSAGE value="ejercicios del 2 de la practica 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios del 2 de la practica 4" />
   </component>
 </project>
