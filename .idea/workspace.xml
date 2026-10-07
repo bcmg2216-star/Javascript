@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicios del 2 de la practica 4">
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio3/ejercicio3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio4/ejercicio4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio5/ejercicio5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio6/ejercicio6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio7/ejercicio7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio8/ejercicio8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio8/index.html" afterDir="false" />
+    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicio 8 de la practica 4">
       <change afterPath="$PROJECT_DIR$/Practica4/ejercicio9/ejercicio9.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Practica4/ejercicio9/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Regalo/src/components/Arcade.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/components/Arcade.jsx" afterDir="false" />
@@ -27,6 +15,7 @@
       <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes4.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes4.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes6.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes6.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes7.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes7.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +46,9 @@
     &quot;accountId&quot;: &quot;382fb02d-d653-4a7b-945a-81f8f050eca3&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0,
   &quot;fromUser&quot;: false
@@ -66,22 +58,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "javascript.preferred.runtime.type.id": "node",
-    "last_opened_file_path": "/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica4",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica4&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Practica4" />
@@ -119,7 +111,12 @@
       <workItem from="1791029805572" duration="650000" />
       <workItem from="1791215829975" duration="9000" />
       <workItem from="1791215914235" duration="13000" />
-      <workItem from="1791278676959" duration="2795000" />
+      <workItem from="1791278676959" duration="6800000" />
+      <workItem from="1791301252254" duration="16000" />
+      <workItem from="1791302605178" duration="887000" />
+      <workItem from="1791308395918" duration="161000" />
+      <workItem from="1791311395491" duration="382000" />
+      <workItem from="1791365109176" duration="6104000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio de las practicas">
       <option name="closed" value="true" />
@@ -281,11 +278,70 @@
       <option name="project" value="LOCAL" />
       <updated>1791281423682</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="ejercicios del 3 de la practica 4">
+      <option name="closed" value="true" />
+      <created>1791281713435</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1791281713435</updated>
+    </task>
+    <task id="LOCAL-00022" summary="ejercicio 4 de la practica 4">
+      <option name="closed" value="true" />
+      <created>1791282011224</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1791282011224</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ejercicio 5 de la practica 4">
+      <option name="closed" value="true" />
+      <created>1791283532809</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1791283532809</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ejercicio 6 de la practica 4(del ejercicio 5 he quitado el enunciado que lo tenia comentado)">
+      <option name="closed" value="true" />
+      <created>1791285687942</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1791285687942</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ejercicio 7 de la practica 4">
+      <option name="closed" value="true" />
+      <created>1791367573635</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1791367573635</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ejercicio 8 de la practica 4">
+      <option name="closed" value="true" />
+      <created>1791369449198</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1791369449198</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio de las practicas" />
@@ -306,6 +362,12 @@
     <MESSAGE value="ejercicios del 10 al 15 de la practica 3" />
     <MESSAGE value="ejercicios del 1 de la practica 4" />
     <MESSAGE value="ejercicios del 2 de la practica 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicios del 2 de la practica 4" />
+    <MESSAGE value="ejercicios del 3 de la practica 4" />
+    <MESSAGE value="ejercicio 4 de la practica 4" />
+    <MESSAGE value="ejercicio 5 de la practica 4" />
+    <MESSAGE value="ejercicio 6 de la practica 4(del ejercicio 5 he quitado el enunciado que lo tenia comentado)" />
+    <MESSAGE value="ejercicio 7 de la practica 4" />
+    <MESSAGE value="ejercicio 8 de la practica 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 8 de la practica 4" />
   </component>
 </project>
