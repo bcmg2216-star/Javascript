@@ -62,12 +62,3 @@ if (cantidadNotas === 0){
     alert(`Nota maxima: ${notaMaxima}`);
     alert(`Nota minima: ${notaMinima}`);
 }
-
-
-
-
-
-
-
-
-
