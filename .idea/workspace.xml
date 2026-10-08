@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicio 8 de la practica 4">
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio9/ejercicio9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practica4/ejercicio9/index.html" afterDir="false" />
+    <list default="true" id="8d0ea932-f3d5-4dfe-8ade-3d3502743d10" name="Changes" comment="ejercicio 1 de la practica 5 corregido en clase">
+      <change afterPath="$PROJECT_DIR$/Practica5/ejercicio2/ejercicio2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practica5/ejercicio2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Regalo/src/components/Arcade.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/components/Arcade.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Regalo/src/components/CajaFuerte.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/components/CajaFuerte.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Regalo/src/components/PalabraOculta.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/components/PalabraOculta.jsx" afterDir="false" />
@@ -16,6 +16,9 @@
       <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes6.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes6.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes7.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Regalo/src/pages/Mes7.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica4/ejercicio5/ejercicio5.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practica4/ejercicio5/ejercicio5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica5/ejercicio1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practica5/ejercicio1/ejercicio1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Practica5/ejercicio1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,7 @@
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica4&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bea/Escritorio/desarrollo/tema2/Javascript/Practica5/ejercicio2&quot;,
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
@@ -76,13 +79,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practica5/ejercicio2" />
+      <recent name="$PROJECT_DIR$/Practica5" />
       <recent name="$PROJECT_DIR$/Practica4" />
       <recent name="$PROJECT_DIR$/Practica3/ejercicio15" />
       <recent name="$PROJECT_DIR$/Practica3/ejercicio14" />
-      <recent name="$PROJECT_DIR$/Practica3/ejercicio13" />
-      <recent name="$PROJECT_DIR$/Practica3/ejercicio12" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practica5/ejercicio1" />
       <recent name="$PROJECT_DIR$/Practica3/ejercicio-1y2" />
       <recent name="$PROJECT_DIR$/Practica2/ejercicio-1-hola-mundo" />
       <recent name="$PROJECT_DIR$" />
@@ -116,7 +120,9 @@
       <workItem from="1791302605178" duration="887000" />
       <workItem from="1791308395918" duration="161000" />
       <workItem from="1791311395491" duration="382000" />
-      <workItem from="1791365109176" duration="6104000" />
+      <workItem from="1791365109176" duration="7013000" />
+      <workItem from="1791387651683" duration="6676000" />
+      <workItem from="1791451544740" duration="1786000" />
     </task>
     <task id="LOCAL-00001" summary="Inicio de las practicas">
       <option name="closed" value="true" />
@@ -326,7 +332,47 @@
       <option name="project" value="LOCAL" />
       <updated>1791369449198</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="ejercicio 9 de la practica 4">
+      <option name="closed" value="true" />
+      <created>1791373993691</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1791373993691</updated>
+    </task>
+    <task id="LOCAL-00028" summary="ejercicio 1 de la practica 5 corregido en clase">
+      <option name="closed" value="true" />
+      <created>1791392371205</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1791392371205</updated>
+    </task>
+    <task id="LOCAL-00029" summary="ejercicio 1 de la practica 5 corregido en clase">
+      <option name="closed" value="true" />
+      <created>1791392596839</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1791392596839</updated>
+    </task>
+    <task id="LOCAL-00030" summary="ejercicio 1 de la practica 5 corregido en clase">
+      <option name="closed" value="true" />
+      <created>1791392849794</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1791392849794</updated>
+    </task>
+    <task id="LOCAL-00031" summary="ejercicio 1 de la practica 5 corregido en clase">
+      <option name="closed" value="true" />
+      <created>1791392857188</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1791392857188</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,8 +390,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Inicio de las practicas" />
-    <MESSAGE value="Primer ejercicio(hola mundo)" />
     <MESSAGE value="segundo ejercicio(number y math)" />
     <MESSAGE value="tercer ejercicio(String)" />
     <MESSAGE value="cuarto ejercicio(Date)" />
@@ -368,6 +412,9 @@
     <MESSAGE value="ejercicio 6 de la practica 4(del ejercicio 5 he quitado el enunciado que lo tenia comentado)" />
     <MESSAGE value="ejercicio 7 de la practica 4" />
     <MESSAGE value="ejercicio 8 de la practica 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 8 de la practica 4" />
+    <MESSAGE value="ejercicio 9 de la practica 4" />
+    <MESSAGE value="Revert &quot;ejercicio 1 de la practica 5 corregido en clase&quot;&#10;&#10;This reverts commit 745f137f469f2d6f3910a2db04e6d69286d722ec." />
+    <MESSAGE value="ejercicio 1 de la practica 5 corregido en clase" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 1 de la practica 5 corregido en clase" />
   </component>
 </project>
