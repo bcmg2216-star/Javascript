@@ -2,32 +2,30 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Actividad2</title>
-    <style>
-        body{
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: lightgray;
-            display: flex;
-            justify-content: center;
-            padding: 2rem;
-        }
-        .card{
-            background-color: white;
-            padding: 2rem;
-            border-radius: 12px;
-            box-shadow: 3px 3px 3px #000;
-            width: 100%;
-            max-width: 400px;
-        }
-
-
-
-
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de la Compra</title>
 </head>
 <body>
 
+<div class="contenedor">
+    <h1>Lista de la Compra</h1>
 
+    <div class="panel voz">
+        <button id="btnVoz">Activar Micrófono</button>
+        <p id="estadoVoz" class="estado">Estado: Inactivo</p>
+        <p>Último comando: <span id="comandoTexto">-</span></p>
+    </div>
+
+    <div class="panel manual">
+        <input type="text" id="inputProducto" placeholder="Escribe un producto...">
+        <button id="btnAnadir">Añadir</button>
+        <button id="btnQuitar">Quitar</button>
+        <button id="btnVaciar">Vaciar lista</button>
+    </div>
+
+    <h2>Tus productos:</h2>
+    <ul id="listaCompra"></ul>
+</div>
 
 <script src="actividad2.js"></script>
 </body>
